@@ -1,21 +1,14 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Drew Holcombe, Raul, Torres, Edward Juarez
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+Microsoft is a well-established technology corporation most known for creating computers and software. Unlike their competitors in the technology industry (Apple, Amazon, etc.), Microsoft de=oes not currently produce original video content. If they were to compete in this medium, what factors would best contribute to their success? We sought out answers using database files from Box Office Mojo, IMDB, TheMovieDB, and The Numbers, which pointed towards certain times of year, genres, and persons associated with reliable financial success.
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
-
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
+If Microsoft were to break into the film industry, what strategy would give them the best chance of success? What types of films are currently doing the best at the box office, and how can we translate this information into actionable items? How can we minimize the risk of potential films becoming box office bombs?
 
 ## Data
 
@@ -31,6 +24,11 @@ Questions to consider:
 
 ## Methods
 
+To analyze the genres of films, we utilized the genres as listed in the database by IMDB with the production budget and worldwide gross provided by The Numbers. We then determined the median profit, return on investment, and so on from each genre to determine which has the largest potential to earn money. We used the median to avoid over-emphasizing outliers, i.e. massively successful films that don't accurately reflect the overall potential of their genre.
+
+To analyze the potential of actors, writers, and directors, we utilized the persons listed in the database by IMDB with the production budget and worldwide gross provided by The Numbers. We split the movies into those with above-average profits from those with below-average profits. We then looked for persons who contributed to more above-average earning films than below-average earning films; this is intended to identify reliable artists, rather than artists who contributed to one or two massive successes.
+
+To analyze time of year of release, we utilized the date of release and financial information from the database provided by The Numbers. 
 Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
 ***
