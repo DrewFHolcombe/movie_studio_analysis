@@ -130,3 +130,6 @@ dmypy.json
 
 #Large DB files
 *.db
+
+#.DS_Store
+.DS_Store
