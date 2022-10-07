@@ -26,30 +26,34 @@ To analyze time of year of release, we utilized the date of release and financia
 
 We found that genres with the highest median ROIs are animation, adventure, and science-fiction. These genres yield a median ROI between 115% and 180%. This indicates that films within these genres are the most likely to yield a strong ROI.
 
+![ROI by Genre](./images/ROI_by_genre.jpg)
+
 We found that actors, writers, and directors show very different levels of impact on their films' box office performance. Of the writers in our data set, nearly 16% had a perfect track record of writing films with above-average ROIs; this set includes 26 writers who have written three or more films, all with above-average ROIs. For directors, just over 13% had only directed films with above-average ROIs, including 16 directors who had directed three or more films. For actors, less than 3% had only appeared in films with above-average ROIs, only one of whom had appeared in more than two films (Mel Gibson). This indicates that writers and directors are stronger indicators of a film's financial success, while actors are more likely to appear in both high- and low- ROI films.
+
+![Writers, Directors, and Actors](./images/writers_directors_actors.jpg)
+
+![Writers with Only Above-Average ROI Films](./images/top_writers.jpg)
+
+![Directors with Only Above-Average ROI Films](./images/top_directors.jpg)
+
+![Actors with Only Above-Average ROI Films](./images/top_actors.jpg)
 
 We found that the months with the highest ROIs for all films are May, June, and July, as well as November. Each of these months has a median ROI of well over 100%. This indicates that films released in these months are the most likely to return a strong ROI. Notably, November is a popular month due to being soon before the deadline for awards season; this results in voters having these films freshest in their minds during voting, making it a popular choice for films targetting awards shows. The months of May, June, and July, meanwhile, seem to be the most popular time to go to movie theatres, causing these films to have higher ROIs than films released in other months.
 
-
-
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
-
-
+![ROI by Month](./images/ROI_by_month.jpg)
 
 ## Conclusions
 
 Based on our data and results, we believe that a new movie studio should target the high-ROI genres of animation, action, and science-fiction. These films should be produced with writers and directors who have a strong track record of financial success; for animation films, we reccomend Phil Lord and Christopher Miller, known for The Lego Movie and Spider Man: Into the Spider-Verse, and for action and science-fiction, we reccomend Damien Chazelle, best known for Black Panther. For directors, we reccommend Pierre Coffin, best known for the Dispicable Me franchise, for animation films, and Anthony Russo, best known for Avengers: Endgame and Infinity War, for science-fiction and action films. We reccommend these films be released during the summer to target high theatre traffic during those months.
 
-With more time and resources, we would like to research the measures of dispersion of the ROIs of artists' films. This would perhaps solidify our observations and identify other artists with strongly consistent ROIs. We would also like to look into the interaction of time of release and genre; do certain genres perform especially well during certain months? Further research would allow us to provide stronger evidence of factors that would benefit a new film studio and further facilitate financial growth.
+With more time and resources, we would like to research the measures of dispersion of the ROIs of each artists' films. This would either solidify or redirect our observations in this area. This might also identify other artists with strongly consistent ROIs.
+We would also like to look into the interaction of these variables. Do certain genres perform especially well during certain months? Do certain artists see their best ROIs in certain genres? Further research would allow us to provide more specific reccomendations that would further facilitate financial growth.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Microsoft_data_analysis.ipynb) or our [presentation](./movie_studio_presentation.pdf).
 
-For any additional questions, feel free to contact:
+For any additional questions or clarification, feel free to contact:
 Drew Holcombe: drew.holcombe7@gmail.com
 Raul Torres: cassielponce@icloud.com
 Edward Juarez: mr.edwardjuarez@gmail.com
@@ -58,10 +62,9 @@ Edward Juarez: mr.edwardjuarez@gmail.com
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── zippedData                          <- Zipped database from IMDB and CSV from The Numbers
-├── images                              <- Graphs generated from code illustrating findings
-└── Scratch_Code                        <- Working Jupyter Notebooks containing data exploration and analysis
-
+├── Microsoft_data_analysis.ipynb      <- Narrative documentation of analysis in Jupyter notebook
+├── movie_studio_presentation.pdf       <- PDF version of project presentation
+├── zippedData                          <- Zipped data used in our analysis
+├── images                              <- Graphs generated from code illustrating our findings
+└── Scratch_Code                        <- Working Jupyter Notebooks containing drafts of our data exploration and analysis
 ```

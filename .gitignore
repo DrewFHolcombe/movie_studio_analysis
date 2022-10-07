@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Large DB files
+*.db
+
+#.DS_Store
+.DS_Store
