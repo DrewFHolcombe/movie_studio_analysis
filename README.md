@@ -51,7 +51,7 @@ We would also like to look into the interaction of these variables. Do certain g
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Microsoft_data_analysis .ipynb) or our [presentation](./movie_studio_presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Microsoft_data_analysis.ipynb) or our [presentation](./movie_studio_presentation.pdf).
 
 For any additional questions or clarification, feel free to contact:
 Drew Holcombe: drew.holcombe7@gmail.com
@@ -62,7 +62,7 @@ Edward Juarez: mr.edwardjuarez@gmail.com
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── Microsoft_data_analysis.ipynb      <- Narrative documentation of analysis in Jupyter notebook
 ├── movie_studio_presentation.pdf       <- PDF version of project presentation
 ├── zippedData                          <- Zipped data used in our analysis
 ├── images                              <- Graphs generated from code illustrating our findings
