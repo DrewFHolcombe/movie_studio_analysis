@@ -46,13 +46,14 @@ We found that the months with the highest ROIs for all films are May, June, and 
 
 Based on our data and results, we believe that a new movie studio should target the high-ROI genres of animation, action, and science-fiction. These films should be produced with writers and directors who have a strong track record of financial success; for animation films, we reccomend Phil Lord and Christopher Miller, known for The Lego Movie and Spider Man: Into the Spider-Verse, and for action and science-fiction, we reccomend Damien Chazelle, best known for Black Panther. For directors, we reccommend Pierre Coffin, best known for the Dispicable Me franchise, for animation films, and Anthony Russo, best known for Avengers: Endgame and Infinity War, for science-fiction and action films. We reccommend these films be released during the summer to target high theatre traffic during those months.
 
-With more time and resources, we would like to research the measures of dispersion of the ROIs of artists' films. This would perhaps solidify our observations and identify other artists with strongly consistent ROIs. We would also like to look into the interaction of time of release and genre; do certain genres perform especially well during certain months? Further research would allow us to provide stronger evidence of factors that would benefit a new film studio and further facilitate financial growth.
+With more time and resources, we would like to research the measures of dispersion of the ROIs of each artists' films. This would either solidify or redirect our observations in this area. This might also identify other artists with strongly consistent ROIs.
+We would also like to look into the interaction of these variables. Do certain genres perform especially well during certain months? Do certain artists see their best ROIs in certain genres? Further research would allow us to provide more specific reccomendations that would further facilitate financial growth.
 
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./movie_studio_presentation.pdf).
 
-For any additional questions, feel free to contact:
+For any additional questions or clarification, feel free to contact:
 Drew Holcombe: drew.holcombe7@gmail.com
 Raul Torres: cassielponce@icloud.com
 Edward Juarez: mr.edwardjuarez@gmail.com
