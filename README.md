@@ -26,21 +26,21 @@ To analyze time of year of release, we utilized the date of release and financia
 
 We found that genres with the highest median ROIs are animation, adventure, and science-fiction. These genres yield a median ROI between 115% and 180%. This indicates that films within these genres are the most likely to yield a strong ROI.
 
-![ROI by Genre](./images/ROI_by_genre.png)
+![ROI by Genre](./images/ROI_by_genre.jpg)
 
 We found that actors, writers, and directors show very different levels of impact on their films' box office performance. Of the writers in our data set, nearly 16% had a perfect track record of writing films with above-average ROIs; this set includes 26 writers who have written three or more films, all with above-average ROIs. For directors, just over 13% had only directed films with above-average ROIs, including 16 directors who had directed three or more films. For actors, less than 3% had only appeared in films with above-average ROIs, only one of whom had appeared in more than two films (Mel Gibson). This indicates that writers and directors are stronger indicators of a film's financial success, while actors are more likely to appear in both high- and low- ROI films.
 
-![Writers, Directors, and Actors](./images/writers_directors_actors.png)
+![Writers, Directors, and Actors](./images/writers_directors_actors.jpg)
 
-![Writers with Only Above-Average ROI Films](./images/top_writers.png)
+![Writers with Only Above-Average ROI Films](./images/top_writers.jpg)
 
-![Directors with Only Above-Average ROI Films](./images/top_directors.png)
+![Directors with Only Above-Average ROI Films](./images/top_directors.jpg)
 
-![Actors with Only Above-Average ROI Films](./images/top_actors.png)
+![Actors with Only Above-Average ROI Films](./images/top_actors.jpg)
 
 We found that the months with the highest ROIs for all films are May, June, and July, as well as November. Each of these months has a median ROI of well over 100%. This indicates that films released in these months are the most likely to return a strong ROI. Notably, November is a popular month due to being soon before the deadline for awards season; this results in voters having these films freshest in their minds during voting, making it a popular choice for films targetting awards shows. The months of May, June, and July, meanwhile, seem to be the most popular time to go to movie theatres, causing these films to have higher ROIs than films released in other months.
 
-![ROI by Month](./images/ROI_by_month.png)
+![ROI by Month](./images/ROI_by_month.jpg)
 
 ## Conclusions
 
