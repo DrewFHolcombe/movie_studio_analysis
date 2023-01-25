@@ -4,7 +4,7 @@
 
 ## Overview
 
-Microsoft is a well-established technology corporation most known for creating computers and software. Unlike their competitors in the technology industry (Apple, Amazon, etc.), Microsoft de=oes not currently produce original video content. If they were to compete in this medium, what factors would best contribute to their success? We sought out answers using database files from Box Office Mojo, IMDB, TheMovieDB, and The Numbers, which pointed towards certain times of year, genres, and persons associated with reliable financial success.
+Microsoft is a well-established technology corporation most known for creating computers and software. Unlike their competitors in the technology industry (Apple, Amazon, etc.), Microsoft does not currently produce original video content. If they were to compete in this medium, what factors would best contribute to their success? We sought out answers using database files from Box Office Mojo, IMDB, TheMovieDB, and The Numbers, which pointed towards certain times of year, genres, and persons associated with reliable financial success.
 
 ## Business Problem
 
